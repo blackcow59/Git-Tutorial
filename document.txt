@@ -1,6 +1,6 @@
 깃허브 배우기
 
-Root Folder 연결
+Root Folder 연결 -> 최초 한번만 하면 된다.
 1. 폴더를 하나 만들고 오른쪽 클릭 후 Git Bash Here 클릭
 2. git init 입력
 3. git remote add origin Repository주소
